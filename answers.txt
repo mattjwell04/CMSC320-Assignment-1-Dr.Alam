@@ -7,3 +7,8 @@ might help
 
 Answer: Data science could be applied to the machine learning industry since 
 it allows programmers to collect data that can be used to train AI. 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines the histories of two branches into a single branch,
+while rebasing puts histories from branches in a linear order.
